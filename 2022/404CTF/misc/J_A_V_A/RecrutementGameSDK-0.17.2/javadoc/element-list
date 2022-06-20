@@ -1,0 +1,13 @@
+org.hallebarde.recrutement.api
+org.hallebarde.recrutement.api.annotations
+org.hallebarde.recrutement.api.commands
+org.hallebarde.recrutement.api.events
+org.hallebarde.recrutement.api.events.network
+org.hallebarde.recrutement.api.events.user
+org.hallebarde.recrutement.api.events.world
+org.hallebarde.recrutement.api.gameplay
+org.hallebarde.recrutement.api.gameplay.activity
+org.hallebarde.recrutement.api.gameplay.user
+org.hallebarde.recrutement.api.gameplay.world
+org.hallebarde.recrutement.api.network
+org.hallebarde.recrutement.api.storage

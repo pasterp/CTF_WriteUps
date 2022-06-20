@@ -1,0 +1,3 @@
+[submodule "2022/404CTF/misc/J_A_V_A/JNDI-Exploit-Kit"]
+	path = 2022/404CTF/misc/J_A_V_A/JNDI-Exploit-Kit
+	url = https://github.com/pimps/JNDI-Exploit-Kit
