@@ -24,12 +24,12 @@ On va suivre la scientifique qui a été kidnappé afin de la sauver. Le scénar
 - Research paper blog: Identification de ses recherches sensibles
 - Cryptolocker: Les fichiers du scientifique ont été chiffrés et volés, il faut accéder au serveur qui les a récupérer
 - CCoffee: on s'intéresse au site hébergeant le C2 du cryptolocker pour retrouver les fichiers
-- Crypto: déchiffrer le fichier 
+- [Crypto](Crypto/Crypto/ReadMe.md): déchiffrer le fichier 
 - Excel Confidential: Accéder aux données dans un fichier Excel n'appartenant pas à la victime
 
 Là le scénario branche en 2 avec une partie sur le chiffrement:
-- What_If_CryptoLocker: la sécurité du cryptolocker a été améliorer, il faut retrouver l'url et les identifiants à nouveau
-- What_If_?_Crypto: La méthode de chiffrement a été améliorée; il faut décoder le fichier
+- What_If_CryptoLocker: la sécurité du cryptolocker a été amélioré, il faut retrouver l'url et les identifiants à nouveau
+- [What_If_?_Crypto](Crypto/What_If__Crypto/ReadMe.md): La méthode de chiffrement a été améliorée; il faut décoder le fichier
 
 On reprend le scénario:
 - Pour vivre secure vivons caché: on fouille le blog d'un contact identifié précédement
@@ -40,7 +40,7 @@ On reprend le scénario:
 - LPE_FormatString
 
 # Hors scénario
-- Scytale: un challenge crypto basé sur.. Scytale 
+- [Scytale](Crypto/Scytale/ReadMe.md): un challenge crypto basé sur.. Scytale 
 - [Takazume](Steganography/Takazume/ReadMe.md): Stegano simple
 - [AudioSpectre](Steganography/AudioSpectre/ReadMe.md): Stegano audio
 - [Datacenter](Steganography/Datacenter/ReadMe.md): Stegano sur une vidéo
