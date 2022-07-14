@@ -1,4 +1,4 @@
-Opération Kernel
+# Opération Kernel
 
 Date de début: 27 juin
 Durée: 2 semaines
@@ -41,9 +41,9 @@ On reprend le scénario:
 
 # Hors scénario
 - Scytale: un challenge crypto basé sur.. Scytale 
-- Takazume: Stegano simple
-- AudioSpectre: Stegano audio
-- Datacenter: Stegano sur une vidéo
+- [Takazume](Steganography/Takazume/ReadMe.md): Stegano simple
+- [AudioSpectre](Steganography/AudioSpectre/ReadMe.md): Stegano audio
+- [Datacenter](Steganography/Datacenter/ReadMe.md): Stegano sur une vidéo
 - BadPractice: un site web à attaquer
 - Tenue de soirée requise: un site de loterie à exploiter 
 - Une série de challenge sur des SQLi: SQL Project 1, 2, 3
