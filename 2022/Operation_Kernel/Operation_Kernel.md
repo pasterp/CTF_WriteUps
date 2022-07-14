@@ -20,12 +20,12 @@ De nombreux lots seront à gagner. Parmi eux : des sauts en parachute, des goodi
 # Scénario
 On va suivre la scientifique qui a été kidnappé afin de la sauver. Le scénario nous fait suivre un grand nombre d'épreuves différentes pour arriver à localiser à la fin le responsable.
 
-- Research Paper: Identification du scientifique
+- [Research Paper](Forensic/Research%20paper/ReadMe.md): Identification du scientifique
 - Research paper blog: Identification de ses recherches sensibles
 - Cryptolocker: Les fichiers du scientifique ont été chiffrés et volés, il faut accéder au serveur qui les a récupérer
 - CCoffee: on s'intéresse au site hébergeant le C2 du cryptolocker pour retrouver les fichiers
 - [Crypto](Crypto/Crypto/ReadMe.md): déchiffrer le fichier 
-- Excel Confidential: Accéder aux données dans un fichier Excel n'appartenant pas à la victime
+- [Excel Confidential](Forensic/Excel%20Confidential/ReadMe.md): Accéder aux données dans un fichier Excel n'appartenant pas à la victime
 
 Là le scénario branche en 2 avec une partie sur le chiffrement:
 - What_If_CryptoLocker: la sécurité du cryptolocker a été amélioré, il faut retrouver l'url et les identifiants à nouveau
